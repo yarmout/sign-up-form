@@ -27,9 +27,5 @@ Check out the live demo here! [Live Demo](https://sign-up-form-design.vercel.app
    ```
 3. **Open `index.html` in your favorite browser.**
 
-## Usage
-- Open the webpage and fill out the sign-up form.
-- Hover over input fields to see styling effects.
-
 ## Acknowledgments
 - Thanks to [The Odin Project](https://www.theodinproject.com) for providing the design concept for this sign-up page.
