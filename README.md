@@ -6,11 +6,12 @@ A sleek and modern sign-up page built with **HTML** and **CSS**, focusing on a c
 ## 🚀 Preview
 You can check out the live demo of this project here! [Live Demo](https://sign-up-form-design.vercel.app)
 
-## 🌟 Feature
+## 🌟 Features
 
 - **Modern Aesthetic**: Clean and structured design with an elegant layout.
 - **Structured Form**: Well-organized input fields for user registration.
-- **Scalable Design**: Ready for adding responsiveness and form validation.
+- **Logo and Branding**: Includes a clear, central logo to establish identity and professionalism.
+- **Actionable Button**: A bold, easy-to-find “Create Account” button for user engagement.
 
 ## 💻 Installation
 
